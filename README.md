@@ -38,8 +38,45 @@ npx react-native run-android
  
  ### Demo:
  1. **Loading screen**
- <p><img src="images/loading" width="250" /></p>
+ <p><img src="images/loading.png" width="250" /></p>
  
  Loading Screen contains Text or Images that shows when the app first starts. It is used when the mobile app requires essential information before its start. The application may load the information from some external API or local storage.
  
  2. **Sign in, sign up screen**
+ <img src="images/sign-in.png" width="250" />
+ 
+ Users need to enter their registered email and password to access the system. If you don't have an account, click at ``Create new account? Sign Up``
+ 
+ <img src="images/sign-up.png" width="250" />
+ 
+ When you register successfully, the data will be entered into Firebase Authentication:
+ 
+ 3. **Home screen**
+  <img src="images/home.png" width="250" />
+  
+  Display product categories and deal of the day
+  
+ 4. **Cart screen**
+ <img src="images/Cart.png" width="250" />
+ 
+ ### References:
+ [https://reactnative.dev/docs/getting-started](https://reactnative.dev/docs/getting-started)
+ 
+ [https://reactnavigation.org/blog/2020/02/06/react-navigation-5.0/](https://reactnavigation.org/blog/2020/02/06/react-navigation-5.0/)
+ 
+ [https://youtu.be/IXw8nRv7TBU?list=PLqtWgQ5BRLPvaAnoiZD8_z2RTh1VYVqN2](https://youtu.be/IXw8nRv7TBU?list=PLqtWgQ5BRLPvaAnoiZD8_z2RTh1VYVqN2)
+
+ [https://www.youtube.com/watch?v=xDHjab0MPTA&t=409s](https://www.youtube.com/watch?v=xDHjab0MPTA&t=409s)
+ 
+ ### Contributors
+ [tienphamminh]() - Phạm Minh Tiến - 18001075
+ 
+ [thanhH99]() - Nguyễn Xuân Thành - 18001078
+ 
+ [ducthinh1402]() - Trần Đức Thịnh - 18001080
+ 
+ [NguyenXuanDuan]() - Nguyễn Xuân Duẩn - 18001027
+ 
+ 
+ 
+ 
