@@ -40,5 +40,5 @@ npx react-native run-android
  1. **Loading screen**
  <img src="/images/loading.png" width="250" />
  Loading Screen contains Text or Images that shows when the app first starts. It is used when the mobile app requires essential information before its start. The application may load the information from some external API or local storage.
- 2. **Sign in, Sign up screen**
+ 2. **L**
  <img src="/images/sign-in.png" width="250" />
